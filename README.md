@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer based in Manchester, U.K</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on full stack development projects at the bbc<br>🌱 I’m currently learning everything and anything i can and front and back end development<br>💬 Ask me about Javascript, React, CSS, Html5 <br>⚡ Fun fact I only started my developer journey at the age of 36! Its never too late to find something you love doing
+🔭 I’m currently working on full stack development projects at the bbc<br>🌱 I’m currently learning everything and anything i can about front and back end development<br>💬 Ask me about Javascript, React, CSS, HTML5 <br>⚡ Fun fact I only started my developer journey at the age of 36! Its never too late to find something you love doing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
