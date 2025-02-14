@@ -7,7 +7,6 @@ A passionate web developer based in Manchester, U.K
 I'm a web developer specializing in HTML, CSS, JavaScript, TypeScript and React. I bring a passion for crafting user-friendly experiences across web and mobile platforms. My expertise spans both front-end and back-end development, utilizing technologies like HTML, CSS, JavaScript, React, and TypeScript. I also have experience using several AWS products, including AWS S3, EC2, Cloudfront, CodeBuild, Lambda and the CDK
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [my simple website](http://chrishowarthportfolio.s3-website.eu-west-2.amazonaws.com/index.html)
 * ✉️  You can contact me at [cthowarth@gmail.com](mailto:cthowarth@gmail.com)
 * 🚀  I'm currently working on [Frontend Development at the BBC](http://www.bbc.co.uk)
 * 🧠  I'm learning Typescript, Javascript & React
