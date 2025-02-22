@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Howarth
+Hi! My name is Chris Howarth
 =====================================================================================================================================
 
-A passionate web developer based in Manchester, U.K
+A web developer based in Manchester, U.K
 ---------------------------------------------------
 
 I'm a web developer specializing in HTML, CSS, JavaScript, TypeScript and React. I bring a passion for crafting user-friendly experiences across web and mobile platforms. My expertise spans both front-end and back-end development, utilizing technologies like HTML, CSS, JavaScript, React, and TypeScript. I also have experience using several AWS products, including AWS S3, EC2, Cloudfront, CodeBuild, Lambda and the CDK
@@ -21,8 +21,16 @@ I'm a web developer specializing in HTML, CSS, JavaScript, TypeScript and React.
 
 ### Socials
 
-<p align="left"> <a href="https://twitter.com/cthow83x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cthow83x" height="30" width="40" /></a>
+<p align="left">
+<a href="https://codepen.io/@cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@cthow83" height="30" width="40" /></a>
+<a href="https://twitter.com/cthow83x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cthow83x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cthow83" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29753448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29753448" height="30" width="40" /></a>
 <a href="https://fb.com/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cthow83" height="30" width="40" /></a>
 <a href="https://instagram.com/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cthow83" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cthow83" height="30" width="40" /></a></p>
+<a href="https://dribbble.com/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cthow83" height="30" width="40" /></a>
+<a href="https://medium.com/@cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cthow83" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cthow83" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cthow83" height="30" width="40" /></a>
+<a href="https://discord.gg/cthow83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cthow83" height="30" width="40" /></a>
+</p>
